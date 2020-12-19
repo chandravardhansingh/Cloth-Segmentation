@@ -1,2 +1,2 @@
 # Cloth-Segmentation
-Yolo Model training for segmenting different categories of apparel. 
+Model trained to detect and identifying different categories of apparel from given image.
